@@ -50,3 +50,13 @@ Mật khẩu được kiểm tra như sau:
 - Nếu nó bằng “mindX”, thì hãy hiển thị “Chào mừng!”,
 - Một chuỗi khác – hiển thị “Mật khẩu sai”,
 - Đối với một chuỗi trống hoặc đầu vào đã hủy, hãy hiển thị “Đã hủy”
+
+#### Bài tập 5
+
+Nhập cho một mảng số có n phần tử
+
+- Tính trung bình cộng của mảng.
+- Tìm số lớn nhất, nhỏ nhất trong mảng.
+- Tính tổng các số chẵn có trong mảng.
+- Tính tổng các số lẻ có trong mảng.
+- Đếm các số chia hết cho 3.
