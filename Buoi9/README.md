@@ -53,7 +53,7 @@ Mật khẩu được kiểm tra như sau:
 
 #### Bài tập 5
 
-Nhập cho một mảng số có n phần tử
+Cho một mảng số có n phần tử
 
 - Tính trung bình cộng của mảng.
 - Tìm số lớn nhất, nhỏ nhất trong mảng.
