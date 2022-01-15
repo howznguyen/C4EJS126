@@ -15,6 +15,6 @@ Tạo một trang web tính cộng trừ nhân chia với:
 
 ### BTVN3
 Tạo một trang web todolist với:
-- input để nhập và trị
+- input để nhập vào giá trị
 - 2 button thêm giá trị và xoá giá trị cuối cùng
 - 1 thẻ ul để thêm giá trị vào
