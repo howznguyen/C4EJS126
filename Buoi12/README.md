@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Thay ddoori cuộc đời</title>
+        <title>Thay đổi cuộc đời</title>
         <link rel="stylesheet" type="text/css" href="style.css"/>
         <script src = "script.js"></script>
     </head>
