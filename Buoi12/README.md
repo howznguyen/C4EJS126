@@ -37,3 +37,13 @@ function init () {
 window.addEventListener("load", init);
 // load Event là 
 ```
+
+## Bài tập về nhà
+
+BT: Tạo form đăng nhập cơ bản với username và password (tự CSS) và validate form
+- validate là việc xác nhận thông tin được nhập vào form chính xác, tuân thủ quy tắc đặt ra (không để trống, email phải đúng cú pháp, mật khẩu phải từ 8 ký tự trở lên)
+- sử dụng Event submit
+
+Demo: https://obvious-helix-year.glitch.me/
+
+Keyword: Regex - regular expression -> Validation Email
